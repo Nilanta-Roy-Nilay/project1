@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859467709859",
+    "project_id": "fit-yourself-main-master",
+    "storage_bucket": "fit-yourself-main-master.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859467709859:android:37253677b01ba3c165ee16",
+        "android_client_info": {
+          "package_name": "com.fityourself.fit_yourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859467709859-q1muo1mjp8tu09islbq99m6s5pcdph4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fityourself.fit_yourself",
+            "certificate_hash": "8dbe15e3dc7d6a1131733d359fe2471e4bd7b653"
+          }
+        },
+        {
+          "client_id": "859467709859-nm0s3dgdvobkiqfia1e7abmmkoehslkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9mqQdSyaHfUldaMiCt4mKwBFiIe239jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859467709859-nm0s3dgdvobkiqfia1e7abmmkoehslkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

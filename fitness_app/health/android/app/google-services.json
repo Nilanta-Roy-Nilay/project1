@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368689453700",
+    "project_id": "fitness-app-86a38",
+    "storage_bucket": "fitness-app-86a38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368689453700:android:20deed1c4dce879aadc0d1",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRA8Lm7CMtm1WTqbcMju8pbOcQ9oO9L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

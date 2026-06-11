@@ -1,0 +1,5 @@
+{
+    "chat.mcp.collisionBehavior": "suffix",
+    "inlineChat.affordance": "editor",
+    "inlineChat.defaultModel": "Auto (copilot)"
+}
