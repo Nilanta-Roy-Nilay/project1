@@ -5,7 +5,7 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 
 class AIService {
   // Using the API key from your project's firebase_options.dart
-  static const String _apiKey = 'YOUR_API_KEY_HERE';
+  static const String _apiKey = 'AQ.Ab8RN6KT2ciYIkgV4WciHshSsVquYc5qLw_RiC2tNXDdUVGUBA';
   GenerativeModel? _model;
 
   AIService() {
