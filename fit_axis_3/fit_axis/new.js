@@ -1,8 +1,0 @@
-service firebase.storage {
-  match /b/{bucket}/o {
-    match /profile_pictures/{userId} {
-      allow read: if true;
-      allow write: if request.auth != null && request.auth.uid == userId;
-    }
-  }
-}
